@@ -1,0 +1,16 @@
+.skills {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 40px; /* Espaço entre ícones e texto */
+}
+
+.hard img {
+  width: 60px;
+  margin-right: 35px;
+
+}
+
+.soft-skills ul {
+  list-style: disc;
+  padding-left: 5px;
+}
